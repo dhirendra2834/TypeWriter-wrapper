@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body{
+margin:auto;
+padding:auto;
+text-align: center;
+background-color: aqua;
+}
+h1 {
+    text-transform: uppercase;
+}
+img{
+    height: 500px;
+    width: 433px;
+}
